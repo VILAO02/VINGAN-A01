@@ -8,7 +8,7 @@ function vingar(){
     alert("É BOM VOCE VERIFICAR SUA BOLSA OU SEI LÁ MOCHILA!");
 }
 function auxiliar(){
-    alert("Meu Auxiliar");
+    alert("ALVO.");
     history.back;
 }
 function ottan(){
